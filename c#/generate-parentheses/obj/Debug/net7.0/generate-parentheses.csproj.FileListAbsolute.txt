@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/bin/Debug/net7.0/generate-parentheses
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/bin/Debug/net7.0/generate-parentheses.deps.json
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/bin/Debug/net7.0/generate-parentheses.runtimeconfig.json
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/bin/Debug/net7.0/generate-parentheses.dll
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/bin/Debug/net7.0/generate-parentheses.pdb
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.AssemblyInfo.cs
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.dll
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/refint/generate-parentheses.dll
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.pdb
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/generate-parentheses.genruntimeconfig.cache
+/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/obj/Debug/net7.0/ref/generate-parentheses.dll
