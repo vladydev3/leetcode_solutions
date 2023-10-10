@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/bin/Debug/net7.0/wordsearch
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/bin/Debug/net7.0/wordsearch.deps.json
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/bin/Debug/net7.0/wordsearch.runtimeconfig.json
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/bin/Debug/net7.0/wordsearch.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/bin/Debug/net7.0/wordsearch.pdb
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.AssemblyInfo.cs
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/refint/wordsearch.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.pdb
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/wordsearch.genruntimeconfig.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/obj/Debug/net7.0/ref/wordsearch.dll

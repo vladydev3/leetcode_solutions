@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/bin/Debug/net7.0/permutations
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/bin/Debug/net7.0/permutations.deps.json
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/bin/Debug/net7.0/permutations.runtimeconfig.json
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/bin/Debug/net7.0/permutations.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/bin/Debug/net7.0/permutations.pdb
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.AssemblyInfo.cs
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/refint/permutations.dll
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.pdb
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/permutations.genruntimeconfig.cache
+/home/vlady/Documents/codigo/recursividad/leetcode/permutations/obj/Debug/net7.0/ref/permutations.dll
