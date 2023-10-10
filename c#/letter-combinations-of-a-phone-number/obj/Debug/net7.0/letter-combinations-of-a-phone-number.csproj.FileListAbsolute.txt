@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.AssemblyInfo.cs
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/bin/Debug/net7.0/letter-combinations-of-a-phone-number
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/bin/Debug/net7.0/letter-combinations-of-a-phone-number.deps.json
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/bin/Debug/net7.0/letter-combinations-of-a-phone-number.runtimeconfig.json
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/bin/Debug/net7.0/letter-combinations-of-a-phone-number.dll
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/bin/Debug/net7.0/letter-combinations-of-a-phone-number.pdb
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.dll
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/refint/letter-combinations-of-a-phone-number.dll
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.pdb
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/letter-combinations-of-a-phone-number.genruntimeconfig.cache
+/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/obj/Debug/net7.0/ref/letter-combinations-of-a-phone-number.dll
