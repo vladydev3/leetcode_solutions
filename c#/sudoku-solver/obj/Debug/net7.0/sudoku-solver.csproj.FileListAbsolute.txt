@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/bin/Debug/net7.0/sudoku-solver
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/bin/Debug/net7.0/sudoku-solver.deps.json
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/bin/Debug/net7.0/sudoku-solver.runtimeconfig.json
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/bin/Debug/net7.0/sudoku-solver.dll
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/bin/Debug/net7.0/sudoku-solver.pdb
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.AssemblyInfo.cs
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.dll
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/refint/sudoku-solver.dll
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.pdb
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/sudoku-solver.genruntimeconfig.cache
+/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/obj/Debug/net7.0/ref/sudoku-solver.dll
