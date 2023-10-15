@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/sudoku-solver/bin/Debug/net7.0/sudoku-solver.dll",
+            "program": "${workspaceFolder}/combination-sum/bin/Debug/net7.0/combination-sum.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/sudoku-solver",
+            "cwd": "${workspaceFolder}/combination-sum",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

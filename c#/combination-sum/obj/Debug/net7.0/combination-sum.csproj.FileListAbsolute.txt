@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/bin/Debug/net7.0/combination-sum
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/bin/Debug/net7.0/combination-sum.deps.json
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/bin/Debug/net7.0/combination-sum.runtimeconfig.json
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/bin/Debug/net7.0/combination-sum.dll
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/bin/Debug/net7.0/combination-sum.pdb
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.AssemblyInfo.cs
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.dll
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/refint/combination-sum.dll
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.pdb
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/combination-sum.genruntimeconfig.cache
+/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/Debug/net7.0/ref/combination-sum.dll
