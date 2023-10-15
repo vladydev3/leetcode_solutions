@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/combination-sum/bin/Debug/net7.0/combination-sum.dll",
+            "program": "${workspaceFolder}/combination-sum-ii/bin/Debug/net7.0/combination-sum-ii.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/combination-sum",
+            "cwd": "${workspaceFolder}/combination-sum-ii",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

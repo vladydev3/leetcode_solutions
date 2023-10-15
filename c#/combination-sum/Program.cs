@@ -40,8 +40,8 @@ class Solution
     }
     public static IList<IList<int>> CombinationSum(int[] candidates, int target)
     {
-        List<int[]> result = new List<int[]>();
-        List<int> temp = new List<int>();
+        List<int[]> result = new List<int[]>(150);
+        List<int> temp = new List<int>(target/2);
 
         CombinationSum(candidates, target, 0, result, temp);
         return result.ToArray();
