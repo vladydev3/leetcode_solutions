@@ -1,0 +1,15 @@
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/bin/Debug/net7.0/restore-ip-addresses
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/bin/Debug/net7.0/restore-ip-addresses.deps.json
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/bin/Debug/net7.0/restore-ip-addresses.runtimeconfig.json
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/bin/Debug/net7.0/restore-ip-addresses.dll
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/bin/Debug/net7.0/restore-ip-addresses.pdb
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.csproj.AssemblyReference.cache
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.GeneratedMSBuildEditorConfig.editorconfig
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.AssemblyInfoInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.AssemblyInfo.cs
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.csproj.CoreCompileInputs.cache
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.dll
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/refint/restore-ip-addresses.dll
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.pdb
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/restore-ip-addresses.genruntimeconfig.cache
+/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/obj/Debug/net7.0/ref/restore-ip-addresses.dll

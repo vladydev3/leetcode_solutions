@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "letter-tile-possibilities/1.0.0": {
+      "restore-ip-addresses/1.0.0": {
         "runtime": {
-          "letter-tile-possibilities.dll": {}
+          "restore-ip-addresses.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "letter-tile-possibilities/1.0.0": {
+    "restore-ip-addresses/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
