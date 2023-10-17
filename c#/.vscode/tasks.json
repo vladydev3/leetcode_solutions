@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/restore-ip-addresses/restore-ip-addresses.csproj",
+                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/restore-ip-addresses/restore-ip-addresses.csproj",
+                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/restore-ip-addresses/restore-ip-addresses.csproj"
+                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
