@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj",
+                "${workspaceFolder}/find-the-punishment-number-of-an-integer/find-the-punishment-number-of-an-integer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj",
+                "${workspaceFolder}/find-the-punishment-number-of-an-integer/find-the-punishment-number-of-an-integer.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/combination-sum-iii/combination-sum-iii.csproj"
+                "${workspaceFolder}/find-the-punishment-number-of-an-integer/find-the-punishment-number-of-an-integer.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
