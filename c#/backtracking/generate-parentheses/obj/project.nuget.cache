@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bnYYDHXOgVaeIcJgU0AhcOSO5Gx2cvg8ROgKALh6EvqUVC5YVJzOTN0kpwjWmd3wjGUBeKxs5atnQ+hwJVUOpg==",
+  "dgSpecHash": "5sMuPALFiBCtH7IS1K+2HCYkRB9nUaBKxRIuI6PUUGuuvVok2J3xFwWkFv/Z5GYeXnt/ACnJukDn+xTj+IAyvQ==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/generate-parentheses/generate-parentheses.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\generate-parentheses\\generate-parentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

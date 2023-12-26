@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "W/tyZ2QkozshGgo+dpxY6cKz00yQkAp0INpMcizbWlivFjgrlK1eNyOMPmyT0fsUEZHfK63VQaxFkkx+0F3fXQ==",
+  "dgSpecHash": "GN27Uh6sTs9j1Eeqyo+/pR5iV4905CqhTMLM4vtC481PIvDSun4UEBh0AgtsUnpETwgqbWqVnZszSFl+fKKDoA==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/combination-sum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\combination-sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

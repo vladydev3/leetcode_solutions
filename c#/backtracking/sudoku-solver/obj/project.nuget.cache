@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b5VuRhFkiaFK5js1l1qaAfI2jyuAqEk2TI8/0uO7KLTOhjUeMvEvVXGLXBAJau73JqXQU9sOoPCes82tkcEfHg==",
+  "dgSpecHash": "CCl8wTl8HMZTi21ax45oUOot5YzPfXC1rnwGUDUPHQktQQXW6jvAloY1RCf3T8JPKJmRaJhBLbJiYP3Qomb08Q==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/sudoku-solver/sudoku-solver.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\sudoku-solver\\sudoku-solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

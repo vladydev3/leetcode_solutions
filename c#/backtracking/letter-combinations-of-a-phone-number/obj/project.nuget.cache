@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JAi92q1kseRw+g7kZBqg7Ln7GW8TLdoI7Y8SQi4hfmEETGxSaGiY5kVakJ98edN9SEao7qKIVFC1C7Xciltkvg==",
+  "dgSpecHash": "XTOTYBU6B2WRJJ0zqlJou57AxbiZelyvA05ABA8A4gwRjXM5ov8SfOABnG1uYpUhMZpt1LoRZYBQfwlTL2mz6w==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\letter-combinations-of-a-phone-number\\letter-combinations-of-a-phone-number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

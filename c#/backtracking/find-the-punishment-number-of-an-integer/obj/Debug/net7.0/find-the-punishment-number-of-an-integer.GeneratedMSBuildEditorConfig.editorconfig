@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = find_the_punishment_number_of_an_integer
-build_property.ProjectDir = /home/vlady/Documents/codigo/leetcode/c#/find-the-punishment-number-of-an-integer/
+build_property.ProjectDir = D:\coding\leetcode_solutions\c#\backtracking\find-the-punishment-number-of-an-integer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,15 @@
+D:\coding\leetcode_solutions\c#\backtracking\aaa\bin\Debug\net8.0\aaa.exe
+D:\coding\leetcode_solutions\c#\backtracking\aaa\bin\Debug\net8.0\aaa.deps.json
+D:\coding\leetcode_solutions\c#\backtracking\aaa\bin\Debug\net8.0\aaa.runtimeconfig.json
+D:\coding\leetcode_solutions\c#\backtracking\aaa\bin\Debug\net8.0\aaa.dll
+D:\coding\leetcode_solutions\c#\backtracking\aaa\bin\Debug\net8.0\aaa.pdb
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.AssemblyInfoInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.AssemblyInfo.cs
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.csproj.CoreCompileInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.sourcelink.json
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.dll
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\refint\aaa.dll
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.pdb
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\aaa.genruntimeconfig.cache
+D:\coding\leetcode_solutions\c#\backtracking\aaa\obj\Debug\net8.0\ref\aaa.dll

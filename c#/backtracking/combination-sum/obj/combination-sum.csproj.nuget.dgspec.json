@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/combination-sum.csproj": {}
+    "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\combination-sum.csproj": {}
   },
   "projects": {
-    "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/combination-sum.csproj": {
+    "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\combination-sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/combination-sum.csproj",
+        "projectUniqueName": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\combination-sum.csproj",
         "projectName": "combination-sum",
-        "projectPath": "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/combination-sum.csproj",
-        "packagesPath": "/home/vlady/.nuget/packages/",
-        "outputPath": "/home/vlady/Documents/codigo/leetcode/c#/combination-sum/obj/",
+        "projectPath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\combination-sum.csproj",
+        "packagesPath": "C:\\Users\\vlady\\.nuget\\packages\\",
+        "outputPath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\combination-sum\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/vlady/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vlady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

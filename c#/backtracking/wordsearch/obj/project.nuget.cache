@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ewDNqFkuG5LFmgaAg8vgyudVtgNe6hQVmSqNjTM39mxoWvW6a0jFZiLFEkcx2rgNF7qfzmJV1P/TfV+mJQQ33w==",
+  "dgSpecHash": "lgVZGdWEyl+bXmBp2vlZXG1pqiGaWbBxpUo0YOpLIgWj5Rw2Io70uohtazH5DTEA5NqtNLJP/Cokt3WryapHbA==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/recursividad/leetcode/wordsearch/wordsearch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\wordsearch\\wordsearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LbEq5vJswBGju0Sj7cmey6NP3pIiXN28CXCtB3XJA0DxnN8+lYtx+FCFycEMVzcmPeh3AKC4xWVfm4U1ldVA3A==",
+  "dgSpecHash": "KBcRZsE//Naq6PPXIfsG1NnYJd0lj9m1Eg0KMJuFu5LSnTysf41AE6YzSTgidE65xqm+fFR1jMIZm7n2DzOgZA==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/restore-ip-addresses/restore-ip-addresses.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\restore-ip-addresses\\restore-ip-addresses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

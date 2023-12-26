@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iQTONHwvSa5AAny8gMsUwcQvA4RWVWrOdvIKozrAj/UMXgjDbzKBFXiZmUEFpWXAn/Bv+CVz44l/bQUkpPJRJw==",
+  "dgSpecHash": "7Rd1L0nS2aFC8JX7XYTDMPVM5q6ePmoHZShlobF5yoP/1BRsN+Zsxmytb6YvxQA9KlP6a6Wl2bNy3/xaMs/zHA==",
   "success": true,
-  "projectFilePath": "/home/vlady/Documents/codigo/leetcode/c#/n-queens/n-queens.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\n-queens\\n-queens.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
