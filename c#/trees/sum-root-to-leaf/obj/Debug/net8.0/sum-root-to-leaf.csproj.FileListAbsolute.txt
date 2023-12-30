@@ -1,0 +1,15 @@
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\bin\Debug\net8.0\sum-root-to-leaf.exe
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\bin\Debug\net8.0\sum-root-to-leaf.deps.json
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\bin\Debug\net8.0\sum-root-to-leaf.runtimeconfig.json
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\bin\Debug\net8.0\sum-root-to-leaf.dll
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\bin\Debug\net8.0\sum-root-to-leaf.pdb
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.AssemblyInfoInputs.cache
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.AssemblyInfo.cs
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.csproj.CoreCompileInputs.cache
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.sourcelink.json
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.dll
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\refint\sum-root-to-leaf.dll
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.pdb
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\sum-root-to-leaf.genruntimeconfig.cache
+D:\coding\leetcode_solutions\c#\trees\sum-root-to-leaf\obj\Debug\net8.0\ref\sum-root-to-leaf.dll
