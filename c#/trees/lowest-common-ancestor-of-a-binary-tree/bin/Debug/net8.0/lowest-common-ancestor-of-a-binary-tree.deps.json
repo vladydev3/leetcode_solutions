@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lowest-common-ancestor-of-a-binary-tree/1.0.0": {
+        "runtime": {
+          "lowest-common-ancestor-of-a-binary-tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lowest-common-ancestor-of-a-binary-tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

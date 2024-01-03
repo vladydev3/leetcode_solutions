@@ -1,0 +1,15 @@
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\bin\Debug\net8.0\remove-invalid-parenthesis.exe
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\bin\Debug\net8.0\remove-invalid-parenthesis.deps.json
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\bin\Debug\net8.0\remove-invalid-parenthesis.runtimeconfig.json
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\bin\Debug\net8.0\remove-invalid-parenthesis.dll
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\bin\Debug\net8.0\remove-invalid-parenthesis.pdb
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.AssemblyInfoInputs.cache
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.AssemblyInfo.cs
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.csproj.CoreCompileInputs.cache
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.sourcelink.json
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.dll
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\refint\remove-invalid-parenthesis.dll
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.pdb
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\remove-invalid-parenthesis.genruntimeconfig.cache
+D:\coding\leetcode_solutions\c#\trees\remove-invalid-parenthesis\obj\Debug\net8.0\ref\remove-invalid-parenthesis.dll
