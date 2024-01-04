@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XTOTYBU6B2WRJJ0zqlJou57AxbiZelyvA05ABA8A4gwRjXM5ov8SfOABnG1uYpUhMZpt1LoRZYBQfwlTL2mz6w==",
+  "dgSpecHash": "bGVR4Y77I5ueMIgIGdBU2kOnNTwvLrgcl/ocLDX3XALJohra2NA+oQ5Qx59tGkPIQaH78Us+BkPXl0rIQJxiFw==",
   "success": true,
   "projectFilePath": "D:\\coding\\leetcode_solutions\\c#\\backtracking\\letter-combinations-of-a-phone-number\\letter-combinations-of-a-phone-number.csproj",
   "expectedPackageFiles": [
