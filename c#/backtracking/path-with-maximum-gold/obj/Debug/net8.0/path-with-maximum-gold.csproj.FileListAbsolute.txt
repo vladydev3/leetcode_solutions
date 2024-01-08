@@ -1,0 +1,15 @@
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\bin\Debug\net8.0\path-with-maximum-gold.exe
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\bin\Debug\net8.0\path-with-maximum-gold.deps.json
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\bin\Debug\net8.0\path-with-maximum-gold.runtimeconfig.json
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\bin\Debug\net8.0\path-with-maximum-gold.dll
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\bin\Debug\net8.0\path-with-maximum-gold.pdb
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.AssemblyInfoInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.AssemblyInfo.cs
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.csproj.CoreCompileInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.sourcelink.json
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.dll
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\refint\path-with-maximum-gold.dll
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.pdb
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\path-with-maximum-gold.genruntimeconfig.cache
+D:\coding\leetcode_solutions\c#\backtracking\path-with-maximum-gold\obj\Debug\net8.0\ref\path-with-maximum-gold.dll

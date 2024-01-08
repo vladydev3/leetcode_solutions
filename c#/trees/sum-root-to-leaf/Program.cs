@@ -10,54 +10,22 @@
         this.right = right;
     }
 }
-class Program
+public class Solution
 {
-    public static void Main()
-    {
-        var tree = new TreeNode(4, new TreeNode(9, new TreeNode(5), new TreeNode(1)), new TreeNode(0));
-
-        Console.WriteLine(SumRootToLeaf(tree));
-    }
-    public static int SumRootToLeaf(TreeNode root)
+    public int SumNumbers(TreeNode root)
     {
         if (root == null) return 0;
-        var enumerable = SumRootToLeafHelper(root, root.val, string.Empty);
-        var listNums = new List<int>(enumerable.Count());
+        if (root.left == null && root.right == null) return root.val;
 
-        foreach (var num in enumerable)
-        {
-            listNums.Add(int.Parse(num));
-        }
-
-        return listNums.Sum();
+        return SumNumbers(root, 0);
     }
-    public static IEnumerable<string> SumRootToLeafHelper(TreeNode tree, int root, string str)
+    public int SumNumbers(TreeNode root, int sum)
     {
-        // Base case (tree is leaf)
-        if (tree.left == null && tree.right == null) yield return str + root.ToString();
+        if (root == null) return 0;
+        if (root.right == null && root.left == null) return sum * 10 + root.val;
 
-        str += root.ToString();
-        IEnumerable<string> left;
-        IEnumerable<string> right;
+        sum += root.val;
 
-        if (tree.left != null)
-        {
-            left = SumRootToLeafHelper(tree.left, tree.left.val, str);
-
-            foreach (var item in left)
-            {
-                yield return item;
-            }
-        }
-        if (tree.right != null)
-        {
-            right = SumRootToLeafHelper(tree.right, tree.right.val, str);
-
-            foreach (var item in right)
-            {
-                yield return item;
-            }
-        }
-
+        return SumNumbers(root.left, sum) + SumNumbers(root.right, sum);
     }
 }
