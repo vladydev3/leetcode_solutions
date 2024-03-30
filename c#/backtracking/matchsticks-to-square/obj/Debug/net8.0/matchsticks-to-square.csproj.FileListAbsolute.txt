@@ -1,0 +1,15 @@
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\bin\Debug\net8.0\matchsticks-to-square.exe
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\bin\Debug\net8.0\matchsticks-to-square.deps.json
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\bin\Debug\net8.0\matchsticks-to-square.runtimeconfig.json
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\bin\Debug\net8.0\matchsticks-to-square.dll
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\bin\Debug\net8.0\matchsticks-to-square.pdb
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.AssemblyInfoInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.AssemblyInfo.cs
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.csproj.CoreCompileInputs.cache
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.sourcelink.json
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.dll
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\refint\matchsticks-to-square.dll
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.pdb
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\matchsticks-to-square.genruntimeconfig.cache
+D:\coding\leetcode_solutions\c#\backtracking\matchsticks-to-square\obj\Debug\net8.0\ref\matchsticks-to-square.dll
